@@ -1,0 +1,48 @@
+.about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-image: url("E:/portfolio/portfolio/src/images/bgimg.jpg"); 
+  color: #eeefef;
+  font-family: Arial, sans-serif;
+}
+
+.about-content {
+  max-width: 800px;
+  background: rgb(69, 67, 65);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-content h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #ea4f97;
+  font-weight: bold;
+}
+
+.about-content section {
+  margin-bottom: 20px;
+}
+
+.bio-section p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.about-content h2 {
+  font-size: 1.75em;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+.about-content p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
